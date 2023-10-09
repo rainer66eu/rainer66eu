@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @rainer66eu
+  
   Name: Rainer
+  
   Born 1966
+  
   From Europe (German, living in The Netherlands)
+  
 - Education: Diplom Informatiker (univ)
   Univeristy degree in Computer Science
   (somewhere between bachelor and master)
